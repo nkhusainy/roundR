@@ -1,0 +1,13 @@
+citHeader("To cite roundR in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "nkhusainy/roundR: Version 0.1.0 - First release",
+  author   = "Kinansa Husainy",
+  year     = "2026",
+  doi      = "10.5281/zenodo.18292048",
+  url      = "github.com/nkhusainy/roundR",
+  textVersion = paste(
+"Husainy, K. (2026). nkhusainy/roundR: Version 0.1.0 - First release (Version v0.2.0) [Computer software]. https://doi.org/10.5281/zenodo.18292048"
+  )
+)
