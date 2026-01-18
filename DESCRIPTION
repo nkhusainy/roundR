@@ -1,7 +1,7 @@
 Package: roundR
 Type: Package
 Title: Round Numeric Values to the Nearest Integer
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c(
     person(
       "Hanne", "Oberman",
